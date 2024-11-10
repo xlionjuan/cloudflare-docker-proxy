@@ -25,3 +25,4 @@ jobs:
             CUSTOM_DOMAIN
           command: deploy --env production --minify src/index.js
           environment: production
+          

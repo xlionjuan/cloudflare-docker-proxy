@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4.2.2
       - name: Publish
-        uses: cloudflare/wrangler-action@v3
+        uses: cloudflare/wrangler-action@v3.14.1
         env:
           CUSTOM_DOMAIN: ${{ secrets.CUSTOM_DOMAIN || 'libcuda.so' }}
         with:

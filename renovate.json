@@ -1,13 +1,19 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["config:best-practices"],
+  "extends": [
+    "config:best-practices"
+  ],
   "timezone": "Asia/Taipei",
   "forkProcessing": "enabled",
   "packageRules": [
     {
-      "matchManagers": ["*"],
-      "labels": ["dependencies"],
-      "automerge": "true"
+      "matchManagers": [
+        "*"
+      ],
+      "labels": [
+        "dependencies"
+      ],
+      "automerge": true
     }
   ]
 }

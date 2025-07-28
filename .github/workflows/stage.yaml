@@ -1,4 +1,4 @@
-stage.yamname: Deploy to Cloudflare Workers(Staging)
+name: Deploy to Cloudflare Workers(Staging)
 
 on:
   pull_request_target:

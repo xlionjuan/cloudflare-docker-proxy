@@ -6,7 +6,8 @@
   "packageRules": [
     {
       "matchManagers": ["*"],
-      "labels": ["dependencies"]
+      "labels": ["dependencies"],
+      "automerge": "true"
     }
   ]
 }

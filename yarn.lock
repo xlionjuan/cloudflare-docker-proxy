@@ -249,7 +249,7 @@
 
 "@img/sharp-libvips-linuxmusl-arm64@1.2.4":
   version "1.2.4"
-  resolved "https://registry.yarnpkg.com/@img/sharp-libvips-linuxmusl-arm64/-/sharp-libvips-linuxmusl-arm64-1.2.4.tgz#c8d6b48211df67137541007ee8d1b7b1f8ca8e06"
+  resolved "https://registry.npmjs.org/@img/sharp-libvips-linuxmusl-arm64/-/sharp-libvips-linuxmusl-arm64-1.2.4.tgz"
   integrity sha512-FVQHuwx1IIuNow9QAbYUzJ+En8KcVm9Lk5+uGUQJHaZmMECZmOlix9HnH7n1TRkXMS0pGxIJokIVB9SuqZGGXw==
 
 "@img/sharp-libvips-linuxmusl-x64@1.2.4":
@@ -301,7 +301,7 @@
 
 "@img/sharp-linuxmusl-arm64@0.34.5":
   version "0.34.5"
-  resolved "https://registry.yarnpkg.com/@img/sharp-linuxmusl-arm64/-/sharp-linuxmusl-arm64-0.34.5.tgz#d6515ee971bb62f73001a4829b9d865a11b77086"
+  resolved "https://registry.npmjs.org/@img/sharp-linuxmusl-arm64/-/sharp-linuxmusl-arm64-0.34.5.tgz"
   integrity sha512-fprJR6GtRsMt6Kyfq44IsChVZeGN97gTD331weR1ex1c1rypDEABN6Tm2xa1wE6lYb5DdEnk03NZPqA7Id21yg==
   optionalDependencies:
     "@img/sharp-libvips-linuxmusl-arm64" "1.2.4"
@@ -1365,10 +1365,10 @@ workerd@1.20260111.0:
     "@cloudflare/workerd-linux-arm64" "1.20260111.0"
     "@cloudflare/workerd-windows-64" "1.20260111.0"
 
-wrangler@4.59.0:
-  version "4.59.0"
-  resolved "https://registry.npmjs.org/wrangler/-/wrangler-4.59.0.tgz"
-  integrity sha512-YYTYELFHsWfkx4oT+SB6fV8r/4mzR/ySQrcSoGavdHsXNux7ge6UNscMifWnqyyB76meCVTkgsXrRONGoV7bEQ==
+wrangler@4.59.1:
+  version "4.59.1"
+  resolved "https://registry.npmjs.org/wrangler/-/wrangler-4.59.1.tgz"
+  integrity sha512-5DddGSNxHd6dOjREWTDQdovQlZ1Lh80NNRXZFQ4/CrK3fNyVIBj9tqCs9pmXMNrKQ/AnKNeYzEs/l1kr8rHhOg==
   dependencies:
     "@cloudflare/kv-asset-handler" "0.4.1"
     "@cloudflare/unenv-preset" "2.9.0"

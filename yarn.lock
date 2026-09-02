@@ -1180,10 +1180,10 @@ webpack-sources@^3.5.1:
   resolved "https://registry.npmjs.org/webpack-sources/-/webpack-sources-3.5.1.tgz"
   integrity sha512-jyuiGJdtvY434z5bUZrjz67v76/ePNvFZTp9Mdz29IlH4+GPsgyGjiv0fKI+M7BdkU6ADjulUcKAd3tUK3WlEw==
 
-webpack@5.110.1:
-  version "5.110.1"
-  resolved "https://registry.npmjs.org/webpack/-/webpack-5.110.1.tgz"
-  integrity sha512-gInQB+jxXxgnZyvPwuzT5NGQmECDqeu85oxcrjinrYHqPoBex0hCAN2SFTJVyPVrK0Pq9E44VFP+e89fAc10/w==
+webpack@5.110.2:
+  version "5.110.2"
+  resolved "https://registry.npmjs.org/webpack/-/webpack-5.110.2.tgz"
+  integrity sha512-TciLrfM7zgEjqGdY851HkirDsSPQgTFsWQpl9oHqMAMYsHhEC0bKjscvjpnz+pzx10hLC8qISApGrsnrCP4UtQ==
   dependencies:
     "@types/estree" "^1.0.8"
     "@types/json-schema" "^7.0.15"

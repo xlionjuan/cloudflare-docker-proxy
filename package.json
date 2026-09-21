@@ -9,7 +9,7 @@
     "prettier": "3.9.8",
     "webpack": "5.111.1",
     "webpack-cli": "7.2.3",
-    "wrangler": "4.134.0"
+    "wrangler": "4.135.0"
   },
   "scripts": {
     "format": "prettier --write '**/*.{js,css,json,md}'",
